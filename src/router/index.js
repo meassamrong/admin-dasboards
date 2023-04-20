@@ -11,9 +11,9 @@ const routes = [
     component: () => import('../views/Dashboard.vue')
   },
   {
-    path: '/about',
-    name: 'About',
-    component: () => import('../views/About.vue')
+    path: '/createItem',
+    name: 'Create-Items',
+    component: () => import('../views/CreateItem.vue')
   }
 ]
 

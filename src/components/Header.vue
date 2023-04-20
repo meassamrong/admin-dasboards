@@ -13,7 +13,7 @@
 				<img src="../assets/about.jpg" alt="">
 			</div>
             <div class="menu-name">
-                <h2>Rômulo Rodrigues</h2>
+                <h2>J'Corp Dev</h2>
                 <div class="menu-name-social-icons">
                     <a href="">
                         <i class="fa fa-facebook"></i>
@@ -103,9 +103,9 @@
                 </router-link>
             </div>
             <div class="sidebar-list-item">
-                <router-link to="/about">
-                    <i class="fa fa-user"></i>
-                    <span class="tooltip">About</span>
+                <router-link to="/createItem">
+                    <i class="fa fa-folder" aria-hidden="true"></i>
+                    <span class="tooltip">Create Items</span>
                 </router-link>
             </div>
             <div class="sidebar-list-item">
